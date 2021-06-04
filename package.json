@@ -18,7 +18,7 @@
     "hbs": "^4.0.3",
     "lodash": "^4.17.11",
     "mongoose": "^5.4.18",
-    "nodemon": "^1.18.10",
+    "nodemon": "^1.19.4",
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
     "xml-js": "^1.6.11"
