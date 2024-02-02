@@ -19,8 +19,8 @@
     "lodash": "^4.17.11",
     "mongoose": "^5.4.18",
     "nodemon": "^1.18.10",
-    "request": "^2.88.0",
-    "request-promise": "^4.2.4",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
     "xml-js": "^1.6.11"
   }
 }
