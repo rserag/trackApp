@@ -14,11 +14,11 @@
   "dependencies": {
     "dotenv": "^6.2.0",
     "express": "^4.16.4",
-    "express-validator": "^5.3.1",
-    "hbs": "^4.0.3",
+    "express-validator": "^6.10.1",
+    "hbs": "^4.0.5",
     "lodash": "^4.17.11",
-    "mongoose": "^5.4.18",
-    "nodemon": "^1.18.10",
+    "mongoose": "^5.7.3",
+    "nodemon": "^3.0.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
     "xml-js": "^1.6.11"
